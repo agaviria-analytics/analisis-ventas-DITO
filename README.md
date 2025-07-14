@@ -19,6 +19,6 @@ El flujo fue **automatizado con Python**, asegurando limpieza robusta de fechas,
 ├── assessment powerbi excel.xlsx  # Archivo original recibido
 ├── paquetes.txt                   # Librerías usadas
 └── README.md                      # Documentación del proyecto
-
+```
 ## 🖼 Vista previa del dashboard
 ![Dashboard Power BI](imagenes/dashboard.jpg)
