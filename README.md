@@ -21,5 +21,4 @@ El flujo fue **automatizado con Python**, asegurando limpieza robusta de fechas,
 └── README.md                      # Documentación del proyecto
 
 ## 🖼 Vista previa del dashboard
-
-![Dashboard Power BI](DITO/imagenes/dashboard.jpg)
+![Dashboard Power BI](imagenes/dashboard.jpg)
